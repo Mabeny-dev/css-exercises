@@ -1,0 +1,32 @@
+.container{
+    background: bisque;
+    margin: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul{
+    display: flex;
+    padding: 12px;
+}
+
+li{
+    list-style-type: none;
+    background: whitesmoke;
+    width: auto;
+    padding: 12px;
+    margin: 2px;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+.logo{
+    font-weight: bold;
+    background: whitesmoke;
+    font-size: 45px;
+    color: tomato;
+}
